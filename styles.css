@@ -20,3 +20,7 @@ html {
 ::-webkit-scrollbar-thumb {
     background: #FF0000;
 }
+
+.carousel {
+    padding-top: 50px;
+}
